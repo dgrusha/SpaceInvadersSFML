@@ -1,0 +1,13 @@
+﻿  ProjSFML2.cpp
+D:\VisualCodeWorkSpace\ProjSFML2\ProjSFML2\Header.h(80,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\VisualCodeWorkSpace\ProjSFML2\ProjSFML2\Header.h(80,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\VisualCodeWorkSpace\ProjSFML2\ProjSFML2\ProjSFML2.cpp(63,20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Source.cpp
+D:\VisualCodeWorkSpace\ProjSFML2\ProjSFML2\Header.h(80,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\VisualCodeWorkSpace\ProjSFML2\ProjSFML2\Header.h(80,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\VisualCodeWorkSpace\ProjSFML2\ProjSFML2\Source.cpp(182,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\VisualCodeWorkSpace\ProjSFML2\ProjSFML2\Source.cpp(183,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\VisualCodeWorkSpace\ProjSFML2\ProjSFML2\Source.cpp(201,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\VisualCodeWorkSpace\ProjSFML2\ProjSFML2\Source.cpp(202,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  ProjSFML2.vcxproj -> D:\VisualCodeWorkSpace\ProjSFML2\Debug\ProjSFML2.exe
